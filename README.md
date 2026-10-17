@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Locker System with Face Recognition
 
 Hệ thống tủ khóa thông minh với nhận diện khuôn mặt, bao gồm backend API và Flutter mobile app.
@@ -161,3 +162,6 @@ flutter run
 ## 📄 License
 
 MIT License - xem file LICENSE để biết thêm chi tiết.
+=======
+# lock-id
+>>>>>>> 7a6c8379004526dd8fb0af2df0d3fabc3e9c0310
